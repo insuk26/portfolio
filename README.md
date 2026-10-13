@@ -1,5 +1,5 @@
 <div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=wave&color=245bff&height=240&text=꾸준히%20다채롭게%20KIM%20IN%20SUK&animation=fadeIn&fontColor=ffffff&fontSize=40" />
+    <img src="https://capsule-render.vercel.app/api?type=wave&color=221fff&height=240&text=꾸준히%20다채롭게%20KIM%20IN%20SUK&animation=fadeIn&fontColor=ffffff&fontSize=40" />
     </div>
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 안녕하세요. 콘텐츠 제작자 김인숙입니다. </h2>  
@@ -13,9 +13,10 @@
     </div>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
-    <div style="text-align: left;"> <a href="https://www.instagram.com/seong_gongsida"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white&link="https://www.instagram.com/seong_gongsidae"> </a>
-         <a href=https://app.notion.com/p/KIM-IN-SUK-3f38f22f6f4a80b7bb5efb7253ae815b?source=copy_link> <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white&link=https://app.notion.com/p/KIM-IN-SUK-3f38f22f6f4a80b7bb5efb7253ae815b?source=copy_link"> </a>
+    <div style="text-align: left;"> <a href=https://www.instagram.com/seong_gongsidae> <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white&link=https://www.instagram.com/seong_gongsidae"> </a>
+         <a href=https://tasty-pest-e7a.notion.site/KIM-IN-SUK-3f38f22f6f4a80b7bb5efb7253ae815b?source=copy_link> <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white&link=https://tasty-pest-e7a.notion.site/KIM-IN-SUK-3f38f22f6f4a80b7bb5efb7253ae815b?source=copy_link"> </a>
          <a href=mailto:insook99@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white&link=mailto:insook99@gmail.com"> </a>
           </div>  <br> 
     <div style="text-align: left;">  </div> 
     </div>
+    
