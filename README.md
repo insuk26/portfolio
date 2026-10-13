@@ -1,5 +1,5 @@
 <div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=wave&color=221fff&height=240&text=꾸준히%20다채롭게%20KIM%20IN%20SUK&animation=fadeIn&fontColor=ffffff&fontSize=40" />
+    <img src="https://capsule-render.vercel.app/api?type=wave&color=05339c&height=240&text=꾸준히%20다채롭게%20KIM%20IN%20SUK&animation=fadeIn&fontColor=ffffff&fontSize=40" />
     </div>
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 안녕하세요. 콘텐츠 제작자 김인숙입니다. </h2>  
