@@ -4,7 +4,7 @@
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 안녕하세요. 콘텐츠 제작자 김인숙입니다. </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 일상에서 발견한 관심을 기획으로 발전시키고, 디자인과 영상으로 표현해요.</li><br>사람들에게 필요한 것과 흥미를 느끼는 지점을 살펴, 전하고 싶은 이야기를 콘텐츠로 만들어요.</li></li>
-        <br>        
+<br><br>        
 <ul style="padding-left: 40px;">
   <li>기획: 꼼꼼하게 분석하고, 무엇을 더하고 덜어낼지 고민해요.</li>
   <li>영상: 컷 편집과 모션 그래픽으로 메시지를 명확하게 전달해요.</li>
